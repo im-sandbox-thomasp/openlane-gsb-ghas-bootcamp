@@ -6,6 +6,7 @@
 </p>
 
 > This bootcamp is designed to support the demos for GHAS Getting Started Bundle and for the customer to familiarize with GitHub Advanced Security (GHAS)
+> Do not work on this repo, please fork it, then you can practice on your own.
 
 
 ```bash
