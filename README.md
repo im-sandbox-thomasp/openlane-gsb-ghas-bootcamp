@@ -16,60 +16,11 @@ git remote set-url origin git@github.com:{org-or-username}/{repo-name}.git
 
 example: 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
 
-## 🏫 Agenda
 
-We will go over the following topics:
 
-<details>
-<summary>Day one </summary>
 
-#### Day one learning
-- [x] Comprehensive overview of GHAS
-- [x] Securing your supply chain with dependency management
-- [x] Secret scanning
-- [x] Rolling out GHAS in your organization
-- [x] Q&A
 
-#### Day one: Dependabot and Secret scanning exercises
-##### Dependabot: [link](exercises/lab%201%20-%20dependabot.md)
-- [x] Enabling Dependabot alerts
-- [x] Reviewing the dependency graph
-- [x] Viewing and managing results
-- [x] Enabling Dependabot security updates
-- [x] Configuring Dependabot security updates
-- [x] Working with Dependency Review
 
-##### Secret scanning: [link](exercises/lab%202%20-%20secret-scanning.md)
-- [x] Enabling secret scanning
-- [x] Viewing and managing results
-- [x] Excluding files from secret scanning
-- [x] Custom patterns for secret scanning
-- [x] Managing access to alerts
-
-</details>
-
-<details>
-<summary>Day two </summary>
-
-#### Day two learning
-- [x] Explore how code scanning works
-- [x] What is Security Overview?
-- [x] CodeQL Demo
-- [x] Final Q&A
-
-#### Day Two: Code scanning + CodeQL demo
-##### Code scanning: [link](exercises/lab%203%20-%20code-scanning.md)
-- [x] Enabling code scanning
-- [x] Reviewing any failed analysis jobs
-- [x] Using context and expressions to modify build
-- [x] Reviewing and managing results
-- [x] Triaging a result in a PR
-- [x] Customizing CodeQL configuration
-- [x] Adding your own code scanning suite to exclude rules
-- [x] Understanding how to add a custom query
-- [x] CodeQL demo
-
-</details>
 
 ## :books: Resources
 - [About code scanning](https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning)
